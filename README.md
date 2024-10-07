@@ -167,7 +167,7 @@ Cette commande est comme fdisk -l mais avec plus de détails
   ## 3
 
 ### 3.1
-  - preseed : Sert à automatiser l'installation des sytèmes d'"xploitation Debian et Ubuntu.
+  - preseed : Sert à automatiser l'installation des sytèmes d'éxploitation Debian et Ubuntu.
   Il va aussi contenir les réponses des questions posées lors de l'installation.
 
    
