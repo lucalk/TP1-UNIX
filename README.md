@@ -162,7 +162,7 @@ Cette commande est comme fdisk -l mais avec plus de détails
     /dev/sda2          3,6G     40K  3,4G   1% /tmp
     tmpfs              995M       0  995M   0% /run/user/0
   ```
-  Permet d'aficher les tailles en en puissance de 2014
+  Permet d'aficher les tailles en puissance de 2014
 
   ## 3
 
