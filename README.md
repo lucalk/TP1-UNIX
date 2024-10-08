@@ -170,6 +170,11 @@ Cette commande est comme fdisk -l mais avec plus de détails
   - preseed : Sert à automatiser l'installation des sytèmes d'éxploitation Debian et Ubuntu.
   Il va aussi contenir les réponses des questions posées lors de l'installation.
 
+### 3.2
+- Il faut premièrement accéder au GRUB lors du démarrage de la machine.
+- Sur une ligne qui commence par linux, il faut faire une modification. Modifier ro : lecture seule par rw : lecture ecriture puis mettre init=/bin/bash. Cela permettra de démarrer en mode root.
+- Exécuter la commande : passwd permettant de changer le mot de passe et redémarrer la machine. 
+
    
               
 
