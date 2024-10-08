@@ -1,8 +1,10 @@
 # TP1-UNIX
 
 ## Sources 
-- Dictionnaire des commandes
-- ChatGPT
+- Dictionnaire des commandes ( man )
+- Doc debian et ubuntu
+- DigitalOcean Community
+- Linuxize
 
 
 ## 2
